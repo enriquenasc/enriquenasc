@@ -15,7 +15,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=enriquenasc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/enriquenasc/enriquenasc/blob/output/github-contribution-grid-snake.svg)
   
 <div>
 <a href="https://www.instagram.com/enriquenasc_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
