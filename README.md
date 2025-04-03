@@ -1,11 +1,24 @@
 # Olá, me chamo Enrique Almeida ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou desempregado;
-- 🌱 Atualmente estou aprendendo React, React Native, JS, CSS;
-- ⚡ Curiosidade: Saí do serviço recentemente a procura de um emprego na area de Dev, estou estudando todos os dias para poder conseguir entrar na área!
+💡 Quem sou eu?
+Estou em transição de carreira para a área de Desenvolvimento Full Stack, buscando aplicar minhas habilidades analíticas e minha paixão por tecnologia para criar soluções eficientes e escaláveis. Atualmente, estou aprofundando meus conhecimentos em JavaScript, TypeScript, React, React Native e back-end.
 
-- ## Ferramentas e Tecnologias
+🚀 O que estou fazendo agora?
+Atualmente, estudo e desenvolvo projetos práticos para aprimorar minhas habilidades em Front-end com React e Back-end com Node.js. Além disso, estou sempre explorando boas práticas de código, arquitetura de software e metodologias ágeis.
+
+🎯 Objetivo Profissional
+Meu foco é conquistar minha primeira oportunidade como Desenvolvedor Full Stack, contribuindo para projetos inovadores e ganhando experiência real no mercado de tecnologia.
+
+📌 Habilidades em desenvolvimento:
+✅ JavaScript | TypeScript
+✅ React.js | React Native
+✅ Node.js | Express
+✅ Banco de Dados (SQL e NoSQL)
+✅ Git/GitHub | APIs REST
+
+🔗 Vamos conectar?
+Estou sempre aberto a aprender, trocar experiências e colaborar com outros profissionais. Se você tem dicas, oportunidades ou simplesmente quer bater um papo sobre tecnologia, será um prazer conversar!
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
 
