@@ -31,7 +31,7 @@ Estou sempre aberto a aprender, trocar experiências e colaborar com outros prof
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=enriquenasc&show_icons=true&theme=radical"/>
 </div>
 
-<div>
+<div align="center" padding="50px">
 <a href="https://www.instagram.com/enriquenasc_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/jubeibr" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@enriquean30@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
